@@ -2,22 +2,35 @@ package de.wlaschny.learnjava;
 
 public class MyClass {
     public static void main(String[] args) {
+        int a = 12;
+        double b = 12.0;
 
-        String name = "Uwe";
-        int age = 56;
-        float pi = 3.14f;
-        double weightOfPlanet = 5.972 * Math.pow(10, 24);
-        byte b = 127;
-        short s = 156;
-        String a = "a";
-        boolean isTrue = true;
+        int total = (int) (b + a);
+        System.out.println("The total is: " + total);
 
-        System.out.println("My name is " + name + " and I'm " + age + " years old.");
-        System.out.println("I'm a programmer.");
-        System.out.println("Weight of Earth: " + weightOfPlanet + " kg");
-        System.out.println("Char Example: " + a);
-        System.out.println("Boolean exampe: " + isTrue);
+        System.out.println(9 + total);
+        System.out.println("9" + total);
 
+        total = (int) (b - a);
+        System.out.println("Substraction, the total is: " + total);
+
+        total = (int) (b / a);
+        System.out.println("Division (int), the total is: " + total);
+
+        double total_d = (b / a);
+        System.out.println("Division (double), the total is: " + total_d);
+
+        total += 100;
+        System.out.println("Division (int), the total is: " + total);
+
+        double c = 12;
+        double d = 6;
+        int remainder = (int) (c % d);
+        System.out.println("Modulo, the remainder is: " + remainder);
+
+        d = 7;
+        remainder = (int) (c % d);
+        System.out.println("Modulo, the remainder is: " + remainder);
 
     }
 }
