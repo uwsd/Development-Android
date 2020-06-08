@@ -1,4 +1,4 @@
-package de.wlaschny.learnjava;
+package de.wlaschny.learnjava.javaintro;
 
 public class MyClass {
     public static void main(String[] args) {

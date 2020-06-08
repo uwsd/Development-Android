@@ -1,7 +1,7 @@
 # My (uwsd) works on:
 
 > ## The Comprehensive Android Developer Bootcamp
-By Paulo Dichone, May 2020, [Packtpub eBook](https://subscription.packtpub.com/video/mobile/9781800561083)
+> By Paulo Dichone, May 2020, [Packtpub eBook](https://subscription.packtpub.com/video/mobile/9781800561083)
 
 [![Android](https://img.shields.io/badge/Android%20Studio-4.0-blue)](https://img.shields.io/badge/Android%20Studio-4.0-blue)
 [![Work Progress](https://img.shields.io/badge/My%20Work%20Progress-8%25-orange)](https://img.shields.io/badge/My%20Work%20Progress-8%25-orange)
